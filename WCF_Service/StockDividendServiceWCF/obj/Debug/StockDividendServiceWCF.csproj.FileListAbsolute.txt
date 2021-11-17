@@ -1,0 +1,11 @@
+C:\Users\Jay07\Desktop\GIT\Stock_Dividend_Finider\WCF_Service\StockDividendServiceWCF\bin\StockDividendServiceWCF.dll.config
+C:\Users\Jay07\Desktop\GIT\Stock_Dividend_Finider\WCF_Service\StockDividendServiceWCF\bin\StockDividendServiceWCF.dll
+C:\Users\Jay07\Desktop\GIT\Stock_Dividend_Finider\WCF_Service\StockDividendServiceWCF\bin\StockDividendServiceWCF.pdb
+C:\Users\Jay07\Desktop\GIT\Stock_Dividend_Finider\WCF_Service\StockDividendServiceWCF\obj\Debug\StockDividendServiceWCF.csproj.AssemblyReference.cache
+C:\Users\Jay07\Desktop\GIT\Stock_Dividend_Finider\WCF_Service\StockDividendServiceWCF\obj\Debug\StockDividendServiceWCF.csproj.CoreCompileInputs.cache
+C:\Users\Jay07\Desktop\GIT\Stock_Dividend_Finider\WCF_Service\StockDividendServiceWCF\obj\Debug\StockDividendServiceWCF.dll
+C:\Users\Jay07\Desktop\GIT\Stock_Dividend_Finider\WCF_Service\StockDividendServiceWCF\obj\Debug\StockDividendServiceWCF.pdb
+C:\Users\Jay07\Desktop\GIT\Stock_Dividend_Finider\WCF_Service\StockDividendServiceWCF\bin\HtmlAgilityPack.dll
+C:\Users\Jay07\Desktop\GIT\Stock_Dividend_Finider\WCF_Service\StockDividendServiceWCF\bin\HtmlAgilityPack.pdb
+C:\Users\Jay07\Desktop\GIT\Stock_Dividend_Finider\WCF_Service\StockDividendServiceWCF\bin\HtmlAgilityPack.xml
+C:\Users\Jay07\Desktop\GIT\Stock_Dividend_Finider\WCF_Service\StockDividendServiceWCF\obj\Debug\StockDividendServiceWCF.csproj.CopyComplete
